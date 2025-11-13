@@ -1,4 +1,5 @@
-Cursor Movement Using Hand Gesture
-The following files contain Code for 
-1) Recgognising ur hand
-2) Processing ur cursor movement using hand geatures
+Cursor Movement via Hand Gesture Recognition
+
+This repository contains:
+Hand detection and gesture recognition
+Cursor control logic based on real-time gesture inputs
